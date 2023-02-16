@@ -1,4 +1,4 @@
-# React Core Concepts3
+# 3. React Core Concepts3
 
 1. Module Summary React Core Concepts recap (45-9)
 
